@@ -20,6 +20,7 @@ CurrencyPro is a simple yet powerful web application for currency conversion. It
 
 ## Getting Started
 
+To get rates, follow the instructions in apiKey.js file.
 To get started with the project locally, clone the repository and install the dependencies:
 
 ```bash
