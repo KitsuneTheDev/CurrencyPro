@@ -1,0 +1,123 @@
+[
+    {
+      "country": "United States",
+      "currency": "USD",
+      "iso": "US",
+      "emoji": "&#x1F1FA;&#x1F1F8;"
+    },
+    {
+      "country": "United Kingdom",
+      "currency": "GBP",
+      "iso": "GB",
+      "emoji": "&#x1F1EC;&#x1F1E7;"
+    },
+    {
+      "country": "European Union",
+      "currency": "EUR",
+      "iso": "EU",
+      "emoji": "&#x1F1EA;&#x1F1FA;"
+    },
+    {
+      "country": "Japan",
+      "currency": "JPY",
+      "iso": "JP",
+      "emoji": "&#x1F1EF;&#x1F1F5;"
+    },
+    {
+      "country": "Canada",
+      "currency": "CAD",
+      "iso": "CA",
+      "emoji": "&#x1F1E8;&#x1F1E6;"
+    },
+    {
+      "country": "Australia",
+      "currency": "AUD",
+      "iso": "AU",
+      "emoji": "&#x1F1E6;&#x1F1FA;"
+    },
+    {
+      "country": "Turkey",
+      "currency": "TRY",
+      "iso": "TR",
+      "emoji": "&#x1F1F9;&#x1F1F7;"
+    },
+    {
+      "country": "India",
+      "currency": "INR",
+      "iso": "IN",
+      "emoji": "&#x1F1EE;&#x1F1F3;"
+    },
+    {
+      "country": "China",
+      "currency": "CNY",
+      "iso": "CN",
+      "emoji": "&#x1F1E8;&#x1F1F3;"
+    },
+    {
+      "country": "Russia",
+      "currency": "RUB",
+      "iso": "RU",
+      "emoji": "&#x1F1F7;&#x1F1FA;"
+    },
+    {
+      "country": "Brazil",
+      "currency": "BRL",
+      "iso": "BR",
+      "emoji": "&#x1F1E7;&#x1F1F7;"
+    },
+    {
+      "country": "South Korea",
+      "currency": "KRW",
+      "iso": "KR",
+      "emoji": "&#x1F1F0;&#x1F1F7;"
+    },
+    {
+      "country": "South Africa",
+      "currency": "ZAR",
+      "iso": "ZA",
+      "emoji": "&#x1F1FF;&#x1F1E6;"
+    },
+    {
+      "country": "Mexico",
+      "currency": "MXN",
+      "iso": "MX",
+      "emoji": "&#x1F1F2;&#x1F1FD;"
+    },
+    {
+      "country": "Saudi Arabia",
+      "currency": "SAR",
+      "iso": "SA",
+      "emoji": "&#x1F1F8;&#x1F1E6;"
+    },
+    {
+      "country": "Argentina",
+      "currency": "ARS",
+      "iso": "AR",
+      "emoji": "&#x1F1E6;&#x1F1F7;"
+    },
+    {
+      "country": "Nigeria",
+      "currency": "NGN",
+      "iso": "NG",
+      "emoji": "&#x1F1F3;&#x1F1EC;"
+    },
+    {
+      "country": "Egypt",
+      "currency": "EGP",
+      "iso": "EG",
+      "emoji": "&#x1F1EA;&#x1F1EC;"
+    },
+    {
+      "country": "Indonesia",
+      "currency": "IDR",
+      "iso": "ID",
+      "emoji": "&#x1F1EE;&#x1F1E9;"
+    },
+    {
+      "country": "Vietnam",
+      "currency": "VND",
+      "iso": "VN",
+      "emoji": "&#x1F1FB;&#x1F1F3;"
+    }
+  ]
+  

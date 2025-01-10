@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kitsu | CurrencyPro</title>
+    <link rel="icon" href="./img/site_logo.png">
+</head>
+<body id="exchangePage">
+   <header>
+        <div class="left-nav">
+            <div class="logo">
+                <span class="logo-group">
+                    <div class="logo-wrapper">
+                        <span class="logo-element-1"></span>
+                        <span class="logo-element-2"></span>
+                        <span class="logo-element-3"></span>
+                        <span class="logo-element-4"></span>
+                    </div>
+                </span>
+                <span class="comp-name">Currency<span class="blue">pro</span></span>
+            </div>
+        </div>
+        <div class="nav-items">
+            <div class="nav-item">
+                <span class="item-name">Currency Converter</span>
+                <span class="item-icon"><img src="./img/ddIcon.png" alt="dd-icon"></span>
+            </div>
+            <div class="nav-item">
+                <span class="item-name">Features</span>
+                <span class="item-icon"><img src="./img/ddIcon.png" alt="dd-icon"></span>
+            </div>
+            <div class="nav-item">
+                <span class="item-name">Resources</span>
+                <span class="item-icon"><img src="./img/ddIcon.png" alt="dd-icon"></span>
+            </div>
+        </div>
+        <div class="right-items">
+            <div class="buttons">
+                <button class="login">Log in</button>
+                <button class="learnMore">Learn More</button>
+            </div>
+        </div>
+   </header>
+   <main>
+    <div class="headline">
+        <p>Currency<span class="blue">pro</span> Converter</p>
+        <p>Check live foreign currency exchange rates</p>
+    </div>
+    <div class="input-frame">
+        <label for="amountInput">
+            <p>Enter Amount</p>
+            <input type="number" id="amountInput" value="1.00">
+        </label>
+    </div>
+    <div class="currency-frame">
+        <div class="base-frame">
+            <span class="placeholder">Select Currency</span>
+        </div>
+        <button class="swap-button"><img src="./img/currencyarrow.png" alt="swap-icon"></button>
+        <div class="target-frame">
+            <span class="placeholder">Select Currency</span>
+        </div>
+    </div>
+    <div class="update-frame">
+        <div class="conversion-frame">
+            <p><span class="base-amount"></span> <span class="base-currency"></span>=</p>
+            <p><span class="target-amount"><span class="highlighted"></span><span class="rest"></span></span><span class="target-currency"></span></p>
+        </div>
+        <div class="last-update-frame">
+            <p><span class="base-currency"></span> to <span class="target-currency"></span> conversion — Last updated <span class="update-time"></span> minutes ago</p>
+            <button class="refresh-button">Refresh</button>
+        </div>
+    </div>
+   </main>
+   <footer>
+    <div class="contents">
+        <div class="left-nav">
+            <div class="logo">
+                <span class="logo-group">
+                    <div class="logo-wrapper">
+                        <span class="logo-element-1"></span>
+                        <span class="logo-element-2"></span>
+                        <span class="logo-element-3"></span>
+                        <span class="logo-element-4"></span>
+                    </div>
+                </span>
+                <span class="comp-name">Currency<span class="blue">pro</span></span>
+            </div> 
+        </div>
+        <div class="nav-menu">
+            <div class="column">
+                <p>How It Works</p>
+                <div class="column-items">
+                    <p>Hire Employees</p>
+                    <p>Hire Contractors</p>
+                    <p>Global Payroll</p>
+                    <p>Integrations</p>
+                </div>
+            </div>
+            <div class="column">
+                <p>Company</p>
+                <div class="column-items">
+                    <p>About</p>
+                    <p>Contact Us</p>
+                    <p>Countries</p>
+                    <p>Careers</p>
+                </div>
+            </div>
+            <div class="column">
+                <p>Solutions</p>
+                <div class="column-items">
+                    <p>Compliances</p>
+                    <p>Payments</p>
+                    <p>Taxes</p>
+                    <p>Enterprises</p>
+                </div>
+            </div>
+            <div class="column">
+                <p>Resources</p>
+                <div class="column-items">
+                    <p>FAQ</p>
+                    <p>Blog</p>
+                    <p>Open API</p>
+                    <p>Guide</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="frame">
+            <p>©2022. All Rights Reserved.</p>
+            <p>Privacy Policy</p>
+            <p>Terms of Service</p>
+        </div>
+        <div class="frame">
+            <span class="logo"><img src="./img/social_insta.png" alt="insta-logo"></span>
+            <span class="logo"><img src="./img/social_fb.png" alt="fb-logo"></span>
+            <span class="logo"><img src="./img/social_linkedin.png" alt="linkedin-logo"></span>
+            <span class="logo"><img src="./img/social_twitter.png" alt="twitter-logo"></span>
+        </div>
+    </div>
+   </footer>
+   <script type="module" src="./main_exchange.js"></script>
+</body>
+</html>
