@@ -20,6 +20,7 @@ CurrencyPro is a simple yet powerful web application for currency conversion. It
 
 ## Demo
 ![image](/img/currencyPro1.png)
+![image](/img/currencyPro2.png)
 
 ## Getting Started
 
@@ -45,6 +46,7 @@ For any inquiries, feel free to reach out:
 
 Email: kitsunethedeveloper@gmail.com
 GitHub: https://github.com/KitsuneTheDev
+
 
 
 
