@@ -18,6 +18,9 @@ CurrencyPro is a simple yet powerful web application for currency conversion. It
 - Webpack (for bundling)
 - APIs for fetching live currency data
 
+## Demo
+[!currencyPro1](./img/currencyPro1.png)
+
 ## Getting Started
 
 To get rates, follow the instructions in apiKey.js file.
@@ -42,3 +45,4 @@ For any inquiries, feel free to reach out:
 
 Email: kitsunethedeveloper@gmail.com
 GitHub: https://github.com/KitsuneTheDev
+
